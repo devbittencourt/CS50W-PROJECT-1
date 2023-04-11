@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "cs50w project 1"
+version = "0.1.0"
+description = "cs50w project 1"
+authors = ["Nome Sobrenome <email@example.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.9.0"
+django = "^3.2.0"
+markdown2 = "^2.4"
+
+[tool.poetry.dev-dependencies]
+pytest = "^6.2.0"
