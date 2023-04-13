@@ -28,9 +28,11 @@ textarea {
 }
 
 .sidebar {
-    background-color: #b3b3b3!import;
+    background-color: #b3b3b3!important;
     height: 100vh;
     padding: 20px;
-    margin-top: 5px;
 }
 
+.sidebar h2 {
+    margin-top: 5px;
+}
